@@ -32,7 +32,7 @@ The second part of the project uses **MediaPipe**, a library developed by Google
 - **Purpose**: This step provides gesture-based interaction for users to communicate using sign language. It helps bridge the communication gap for users who cannot speak or hear, allowing them to input gestures that the system can understand and convert into text.
 
 ![Alt Text]([path-to-image](https://github.com/Gnanashree5/AI-Powered-Learning-Assistant-for-Disabled-Students/blob/main/Screenshot%202024-12-14%20085146.png)
-![Alt Text](path-to-image)
+![Alt Text]([path-to-image](https://github.com/Gnanashree5/AI-Powered-Learning-Assistant-for-Disabled-Students/blob/main/Screenshot%202024-12-14%20085414.png))
 ![Alt Text](path-to-image)
 
 
