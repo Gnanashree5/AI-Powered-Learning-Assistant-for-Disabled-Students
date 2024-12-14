@@ -31,6 +31,11 @@ The second part of the project uses **MediaPipe**, a library developed by Google
 - **Process**: The webcam is used to capture live video frames. Each frame is processed using MediaPipe’s hand detection solution to detect hand landmarks (such as fingers, palms, etc.). The detected landmarks are then used to identify specific gestures corresponding to the ASL alphabet.
 - **Purpose**: This step provides gesture-based interaction for users to communicate using sign language. It helps bridge the communication gap for users who cannot speak or hear, allowing them to input gestures that the system can understand and convert into text.
 
+![Alt Text](path-to-image)
+![Alt Text](path-to-image)
+![Alt Text](path-to-image)
+
+
 ### 3. Text-to-Sign Language Conversion
 
 The final component of the project converts text into sign language gestures. This is done by mapping each character of the input text to its corresponding ASL gesture.
